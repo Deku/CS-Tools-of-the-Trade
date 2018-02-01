@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestSettings name="Seguimiento e impacto en pruebas" id="9ba3f7ce-5951-4ab2-8ced-e1037654389c" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Description>Esta es la configuración de las pruebas para el seguimiento e impacto en pruebas.</Description>
+  <Execution>
+    <TestTypeSpecific />
+    <AgentRule name="Execution Agents">
+    </AgentRule>
+  </Execution>
+</TestSettings>
